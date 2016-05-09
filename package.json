@@ -1,0 +1,22 @@
+{
+  "name": "pagLabUPeU",
+  "version": "0.0.0",
+  "description": "pagina para la universidad peruana union",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noeMamani/pagLabUPeU.git"
+  },
+  "author": "Servicios computacionales UPeU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noeMamani/pagLabUPeU/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0"
+  }
+}
